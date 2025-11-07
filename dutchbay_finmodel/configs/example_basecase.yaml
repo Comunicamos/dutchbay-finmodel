@@ -1,0 +1,14 @@
+# Example base case config
+nameplate_mw: 150.0
+economic_life_years: 20
+ppa_term_years: 20
+capacity_factor_p50: 0.42
+degradation_rate: 0.005
+tariff_lkr_per_kwh: 20.30
+loss_factor: 0.97
+curtailment_pct: 0.01
+capex_usd_mn: 150.0
+fixed_opex_lkr_mn_year1: 850.0
+fixed_opex_escalation_pct: 0.02
+max_debt_ratio: 0.78
+min_dscr_covenant: 1.15

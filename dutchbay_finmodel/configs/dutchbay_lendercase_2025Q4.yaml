@@ -1,0 +1,27 @@
+# Dutch Bay 150 MW - Lender Case 2025Q4 (v1.0.0)
+nameplate_mw: 150.0
+economic_life_years: 20
+ppa_term_years: 20
+capacity_factor_p50: 0.40
+degradation_rate: 0.006
+tariff_lkr_per_kwh: 20.30
+tariff_indexation_pct: 0.0
+loss_factor: 0.97
+curtailment_pct: 0.02
+wheeling_charge_lkr_per_kwh: 0.0
+other_fees_pct_of_revenue: 0.0
+capex_usd_mn: 155.0
+fixed_opex_lkr_mn_year1: 900.0
+fixed_opex_escalation_pct: 0.02
+variable_opex_pct_of_revenue: 0.0
+max_debt_ratio: 0.80
+usd_debt_ratio_of_debt: 0.45
+usd_dfi_pct: 0.10
+usd_mkt_pct: 0.90
+usd_dfi_rate: 0.065
+usd_mkt_rate: 0.070
+lkr_debt_rate: 0.075
+debt_tenor_years: 15
+grace_years: 1
+tax_rate: 0.0
+min_dscr_covenant: 1.15

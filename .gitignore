@@ -4,3 +4,6 @@ __pycache__/
 .pytest_cache/
 .mypy_cache/
 htmlcov/
+.DS_Store
+.DS_Store
+dutchbay_finmodel/.DS_Store
